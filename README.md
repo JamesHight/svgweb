@@ -1,6 +1,8 @@
 SVG Web
 =======
 
+project home: [http://code.google.com/p/svgweb/](http://code.google.com/p/svgweb/)
+
 Overview
 --------
 
