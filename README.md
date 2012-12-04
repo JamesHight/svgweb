@@ -1,7 +1,8 @@
 SVG Web
 =======
 
-#Overview
+Overview
+--------
 
 SVG Web is a JavaScript library which provides [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) support on many browsers, including Internet Explorer, Firefox, and Safari. Using the library plus native SVG support you can instantly target ~95% of the existing installed web base.
 
